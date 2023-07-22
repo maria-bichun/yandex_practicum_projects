@@ -1,0 +1,1 @@
+Here's a repo with my training projects from the Yandex Practicum Data Science course. I did the course in September 2022 - June 2023 and it gave me a good deal of practice, structure and motivation. Please find the details on each project inside the subfolders
